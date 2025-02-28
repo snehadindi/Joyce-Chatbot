@@ -46,7 +46,7 @@ Want to make Joyce even cuter? 🥺 Here’s how!
 
 ✨ Check out Joyce in action! ✨ 
 
-🔗 **Live Demo:** [Joyce Chatbot Preview](https://yourwebsite.com/joyce)  
+🔗 **Live Demo:** [Chat with Joyce 💗](https://snehadindi.github.io/Joyce-Chatbot/)  
 
 ---
 
